@@ -2,7 +2,6 @@
 -  Hi, I’m @KailaniBailey on Github
 -  I love data science, linguistics and language learning, sports, and traveling.
 -  I’m looking to collaborate on tech projects and mobile applications.
--  All of my repositories are private except this profile page (1).
 -  You can reach me on X @KailaniBayy
 
 <!---
