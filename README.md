@@ -2,6 +2,7 @@
 # Hi, I’m [@KailaniBailey](https://github.com/KailaniBailey) on Github
 Congrats on finding an appropriate website/app to cyber-stalk me on! ^-^
 <br><br>
+# About Me
 I originally joined Github in 2016 during an internship for Information Science... 
 nothing came of it but it can be found @KailaniBayy. I made one commit then left. But now I'm back for professional purposes.
 -  I love data science, linguistics, language learning, sports and traveling.
