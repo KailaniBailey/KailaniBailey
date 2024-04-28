@@ -4,6 +4,8 @@
 -  I love data science, linguistics, language learning, sports and traveling.
 -  Business Questions? View my [LinkedIn](https://www.linkedin.com/in/kailanibayy) profile *OR* reach me on **X @KailaniBayy** otherwise... don't bother.
 -  My latest project is: [IBM Data Science Professional Certificate](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate) because I completed my 7-year "social experiment." LOL.
+    - But... in case you want some pointers for proper SEO... here's an article: [How to Be a Cam Girl and Make Money Camming Online in 2024](https://washingtoncitypaper.com/article/565642/cam-girl/).
+    - I've since repented and how come to realize that God always forgives. Ya'll absolutely *do not*... anyways... back to coding.
 <!---
 KailaniBailey/KailaniBailey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
