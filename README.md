@@ -7,7 +7,7 @@ nothing came of it but it can be found [@KailaniBayy](https://github.com/Kailani
 ## The Basics
 -  I love data science, linguistics, language learning, sports and traveling.
 -  My latest project is: [IBM Data Science Professional Certificate](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate)
--  **Business Questions?** View my [LinkedIn](https://www.linkedin.com/in/kailanibayy) profile and contact me there *OR* reach me on **X @KailaniBayy** otherwise... don't bother.
+-  **Business Questions?** View my [LinkedIn](https://www.linkedin.com/in/kailanibayy) profile and contact me there *OR* reach me on **X @KailaniBayy**.
 # Something to Think About
 Featuring a quote from one of my favorite childhood flicks:
 <br>
