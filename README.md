@@ -3,11 +3,11 @@
 Congrats on finding an appropriate website/app to cyber-stalk me on! ^-^
 # About Me
 I originally joined Github in 2016 during an internship for Information Science... 
-nothing came of it but it can be found @KailaniBayy. I made one commit then left. But now I'm back for professional purposes.
+nothing came of it but it can be found [@KailaniBayy](https://github.com/KailaniBayy). I made one commit then left. But now I'm back for professional purposes.
 -  I love data science, linguistics, language learning, sports and traveling.
 -  My latest project is: [IBM Data Science Professional Certificate](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate)
 -  **Business Questions?** View my [LinkedIn](https://www.linkedin.com/in/kailanibayy) profile *OR* reach me on **X @KailaniBayy** otherwise... don't bother.
-# Etc.
+# Something to Think About
 Featuring a quote from one of my favorite childhood flicks:
 <br>
 > ["I laugh in the face of Danger!"](https://youtu.be/FvZ649kW3jM?feature=shared) 
