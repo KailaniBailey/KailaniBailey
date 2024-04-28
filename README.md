@@ -5,7 +5,7 @@
 -  Business Questions? View my [LinkedIn](https://www.linkedin.com/in/kailanibayy) profile *OR* reach me on **X @KailaniBayy** otherwise... don't bother.
 -  My latest project is: [IBM Data Science Professional Certificate](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate)
 <br>["I laugh in the face of Danger!"](https://youtu.be/FvZ649kW3jM?feature=shared) - The Lion King <br><br>
-**Note:** The hyenas symbolize so much... anyways... back to coding!! ^-^
+**Note:** The hyenas symbolize so much... anyways... back to work. <3
 
 <!---
 KailaniBailey/KailaniBailey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
