@@ -8,8 +8,8 @@ nothing came of it but it can be found [@KailaniBayy](https://github.com/Kailani
 -  I love data science, linguistics, language learning, sports and traveling.
 -  My latest project is: [IBM Data Science Professional Certificate](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate)
 -  **Business Questions?** View my [LinkedIn](https://www.linkedin.com/in/kailanibayy) profile and contact me there *OR* reach me on X [@KailaniBayy](https://x.com/kailanibayy).
-# Something to Think About
-Featuring a quote from one of my favorite childhood flicks:
+# Closing Thoughts
+A quote from one of my favorite childhood flicks:
 <br>
 > ["I laugh in the face of Danger!"](https://youtu.be/FvZ649kW3jM?feature=shared) 
 <br>- The Lion King <br>
