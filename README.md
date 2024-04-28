@@ -2,7 +2,7 @@
 # Hi, I’m @KailaniBailey on Github
 -  Congrats on finding an appropriate website/app to cyber-stalk me on! ^-^
 -  I love data science, linguistics, language learning, sports and traveling.
--  Business? View my LinkedIn *OR* reach me on **X @KailaniBayy** otherwise... don't bother. ^-^
+-  Business? View my [LinkedIn](https://www.linkedin.com/in/kailanibayy) *OR* reach me on **X @KailaniBayy** otherwise... don't bother. ^-^
 -  My latest project is: [IBM Data Scientist Certification](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate) (because I'm more than my body). LOL.
 <!---
 KailaniBailey/KailaniBailey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
