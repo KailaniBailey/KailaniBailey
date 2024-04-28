@@ -8,7 +8,7 @@ Congrats on finding an appropriate website/app to cyber-stalk me on! ^-^
 Featuring a quote from one of my favorite childhood flicks:
 <br>
 > ["I laugh in the face of Danger!"](https://youtu.be/FvZ649kW3jM?feature=shared) 
-<br>- The Lion King <br><br>
+<br>- The Lion King <br>
 
 **Note:** The hyenas symbolize so much... anyways... back to work. <3
 
