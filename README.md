@@ -6,7 +6,8 @@ Congrats on finding an appropriate website/app to cyber-stalk me on! ^-^
 -  **Business Questions?** View my [LinkedIn](https://www.linkedin.com/in/kailanibayy) profile *OR* reach me on **X @KailaniBayy** otherwise... don't bother.
 
 Featuring a quote from one of my favorite childhood flicks:
-<br><br>>["I laugh in the face of Danger!"](https://youtu.be/FvZ649kW3jM?feature=shared) 
+<br><br>
+> ["I laugh in the face of Danger!"](https://youtu.be/FvZ649kW3jM?feature=shared) 
 <br>- The Lion King <br><br>
 **Note:** The hyenas symbolize so much... anyways... back to work. <3
 
