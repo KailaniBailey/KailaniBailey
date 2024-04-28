@@ -6,7 +6,7 @@ I originally joined Github in 2016 while I was participating in an internship fo
 nothing came of it but it can be found [@KailaniBayy](https://github.com/KailaniBayy).
 ## The Basics
 -  I love data science, linguistics, language learning, painting, sports and traveling.
--  My latest project is: [IBM Data Science Professional Certificate](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate)
+-  **My latest project is:** [IBM Data Science Professional Certificate](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate)
 -  **Business Questions?** View my [LinkedIn](https://www.linkedin.com/in/kailanibayy) profile and contact me there *OR* reach me on X [@KailaniBayy](https://x.com/kailanibayy).
 # Closing Thoughts
 A quote from one of my favorite childhood flicks:
