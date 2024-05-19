@@ -4,8 +4,8 @@ I originally joined Github in 2016 while I was participating in an internship fo
 nothing came of it but it can be found [@KailaniBayy](https://github.com/KailaniBayy). The Basics:
 -  I love data science, linguistics, language learning, painting, sports and traveling.
 -  **My latest project is:** [IBM Data Science Professional Certificate](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate)
--  **Business Questions?** View my [LinkedIn](https://www.linkedin.com/in/kailanibayy) profile and contact me there *OR* reach me on X [@KailaniBayy](https://x.com/kailanibayy).
-Lastly, A quote from one of my favorite childhood flicks:
+-  **Business Questions?** View my [LinkedIn](https://www.linkedin.com/in/kailanibayy) profile and contact me there *OR* reach me on X [@KailaniBayy](https://x.com/kailanibayy).  
+<br><Br>Lastly, A quote from one of my favorite childhood flicks:
 <br>
 > ["I laugh in the face of Danger!"](https://youtu.be/FvZ649kW3jM?feature=shared) 
 <br>- The Lion King <br>
