@@ -1,7 +1,7 @@
 ![girlanimecoding](https://github.com/KailaniBailey/KailaniBailey/assets/158431578/885aff2c-0cf8-4cc8-80b6-ce4d9abe6352)
 # Hi! I’m Kailani.
 I'm a Modern Language (B.A.) graduate who loves spending her free time listening to music while studying Data Science and learning the ins and outs of LLMs. I originally joined Github in 2016 while I was participating in an Information Science internship, held at the School of Computing and Information at the University of Pittsburgh, which lasted from 2016 to 2017... 
-nothing came of that first page on Github but (if you're super analytical, like me, and need further proof) it can be found [@KailaniBayy](https://github.com/KailaniBayy). 
+nothing came of that first page but (if you're super analytical, like me, and need further proof) it can be found [@KailaniBayy](https://github.com/KailaniBayy). 
 
 The Basics:
 -  I love data science, linguistics, language learning, painting, sports and traveling.
