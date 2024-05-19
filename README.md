@@ -1,6 +1,6 @@
 ![girlanimecoding](https://github.com/KailaniBailey/KailaniBailey/assets/158431578/885aff2c-0cf8-4cc8-80b6-ce4d9abe6352)
 # Hi! I’m Kailani.
-I originally joined Github in 2016 while I was participating in an Information Science internship which lasted from 2016 to 2017... 
+I originally joined Github in 2016 while I was participating in an Information Science internship, held at the School of Computing and Information at the University of Pittsburgh, which lasted from 2016 to 2017... 
 nothing came of that first page on Github but (if you're super analytical, like me, and need further proof) it can be found [@KailaniBayy](https://github.com/KailaniBayy). The Basics:
 -  I love data science, linguistics, language learning, painting, sports and traveling.
 -  **My latest project is:** [IBM Data Science Professional Certificate](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate)
