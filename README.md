@@ -1,7 +1,5 @@
 ![girlanimecoding](https://github.com/KailaniBailey/KailaniBailey/assets/158431578/885aff2c-0cf8-4cc8-80b6-ce4d9abe6352)
 # Hi, I’m Kailani (;
-Congrats on finding an appropriate website/app to cyber-stalk me on! ^-^
-# About Me
 I originally joined Github in 2016 while I was participating in an internship for Information Science... 
 nothing came of it but it can be found [@KailaniBayy](https://github.com/KailaniBayy).
 ## The Basics
