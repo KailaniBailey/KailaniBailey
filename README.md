@@ -17,20 +17,20 @@ Lastly, A quote from one of my favorite childhood flicks:
 
 **Note:** The hyenas symbolize so much... anyways... back to work. <3
 
-# Medical/Tech Research Publications
+# Undergraduate Academic Research Publication
 | Link | Research Paper | Excerpt |
 | ------ | --------------------- | ----------- |
 | [SemanticScholar.org](https://www.semanticscholar.org/paper/Beyond-the-Scope%3A-Using-Motion-Capture-Data-from-to-Babichenko-Grieve/98b6efaa314483241321c2a9d1ec83ea3c0d01aa) | **Beyond the Scope:** Using Motion Capture Data from Bonchoscopy Simulations to Build Feedback Models | “**Abstract:** Manikin simulators and task trainers are commonly used in health sciences training programs to teach techniques performed during medical procedures. However, there are drawbacks to their deployment. First and foremost, the cost of high-fidelity task trainers is prohibitively expensive for many programs. Additionally, the combination of manikin-to-learner and teacher-to-learner ratios often makes it difficult to efficiently teach procedures to a large number of students. This project aims to create a low-cost, game-based, easily portable task trainer to assist learners in building skills and expertise in performing bronchoscopies. This preliminary report focuses on designing a motion capture device to record hand, wrist, and thumb motions performed by experts and learners during simulated bronchoscopy procedures and then using this captured data to construct computational feedback models…” |
 
 <details>
-<summary>Research Publications for SOVA with the UPMC Children's Hospital of Pittsburgh</summary>
+<summary>Volunteer Research Publications for SOVA with the UPMC Children's Hospital of Pittsburgh</summary>
 <br>
-- Stepping Away, Dec. 14 2017; https://sova.pitt.edu/educate-yourself-stepping-away/ <br>
-- App Games for Anxiety, Oct. 25 2017; https://sova.pitt.edu/educate-yourself-app-games-for-anxiety/ <br>
-- Journaling for Growth, Sep. 25 2017; https://sova.pitt.edu/be-positive-journaling-for-growth/ <br>
-- Caira Lee on Self-Love, Jul. 5 2017; https://sova.pitt.edu/educate-yourself-caira-lee-on-self-love/ <br>
-- The Benefits of Humming, Jun. 27 2017; https://sova.pitt.edu/educate-yourself-the-benefits-of-humming/ <br>
-- Negative Effects of Social Media on Teens, May 4 2017; https://sova.pitt.edu/social-media-guide-negative-effects-social-media-teenagers/
+- Stepping Away, 12.14.2017 https://sova.pitt.edu/educate-yourself-stepping-away/ <br>
+- App Games for Anxiety, 10.25.2017 https://sova.pitt.edu/educate-yourself-app-games-for-anxiety/ <br>
+- Journaling for Growth, 09.25.2017 https://sova.pitt.edu/be-positive-journaling-for-growth/ <br>
+- Caira Lee on Self-Love, 07.05.2017 https://sova.pitt.edu/educate-yourself-caira-lee-on-self-love/ <br>
+- The Benefits of Humming, 06.27.2017 https://sova.pitt.edu/educate-yourself-the-benefits-of-humming/ <br>
+- Negative Effects of Social Media on Teens, 05.04.2017 https://sova.pitt.edu/social-media-guide-negative-effects-social-media-teenagers/
 </details>
 
 <!---
