@@ -12,7 +12,7 @@ nothing came of that first page but (if you're super analytical, like me, and ne
 The Basics:
 -  I love data science, linguistics, language learning, painting, sports and traveling.
 -  **My latest project is:** [IBM Data Science Professional Certificate](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate)
--  In my free time I love to read and frequently update my book lists on [Goodreads](https://www.goodreads.com/kailanibayy).  
+-  I love to read in my free time and frequently update my book lists on [Goodreads](https://www.goodreads.com/kailanibayy).  
 
 Lastly, A quote from one of my favorite childhood flicks:
 <br>
