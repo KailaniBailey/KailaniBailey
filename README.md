@@ -27,12 +27,12 @@ Lastly, A quote from one of my favorite childhood flicks:
 <details>
 <summary>CLICK HERE To Read My Volunteer Research Publications for SOVA with UPMC Children's Hospital of Pittsburgh</summary>
 <br>
-- Stepping Away, 12.14.2017 https://sova.pitt.edu/educate-yourself-stepping-away/ <br>
-- App Games for Anxiety, 10.25.2017 https://sova.pitt.edu/educate-yourself-app-games-for-anxiety/ <br>
-- Journaling for Growth, 09.25.2017 https://sova.pitt.edu/be-positive-journaling-for-growth/ <br>
-- Caira Lee on Self-Love, 07.05.2017 https://sova.pitt.edu/educate-yourself-caira-lee-on-self-love/ <br>
-- The Benefits of Humming, 06.27.2017 https://sova.pitt.edu/educate-yourself-the-benefits-of-humming/ <br>
-- Negative Effects of Social Media on Teens, 05.04.2017 https://sova.pitt.edu/social-media-guide-negative-effects-social-media-teenagers/
+- Stepping Away, 12.14.17 https://sova.pitt.edu/educate-yourself-stepping-away/ <br>
+- App Games for Anxiety, 10.25.17 https://sova.pitt.edu/educate-yourself-app-games-for-anxiety/ <br>
+- Journaling for Growth, 09.25.17 https://sova.pitt.edu/be-positive-journaling-for-growth/ <br>
+- Caira Lee on Self-Love, 07.05.17 https://sova.pitt.edu/educate-yourself-caira-lee-on-self-love/ <br>
+- The Benefits of Humming, 06.27.17 https://sova.pitt.edu/educate-yourself-the-benefits-of-humming/ <br>
+- Negative Effects of Social Media on Teens, 05.04.17 https://sova.pitt.edu/social-media-guide-negative-effects-social-media-teenagers/
 </details>
 
 <details>
