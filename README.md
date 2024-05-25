@@ -1,6 +1,7 @@
 ![girlanimecoding](https://github.com/KailaniBailey/KailaniBailey/assets/158431578/885aff2c-0cf8-4cc8-80b6-ce4d9abe6352)
-# Hi! I’m Kailani.
-I'm a Modern Language (B.A.) graduate who loves spending her free time listening to music while studying Data Science, Analytics, and learning the ins and outs of LLMs. I originally joined Github in 2016 while I was participating in an [Information Science internship](https://www.i3-inclusion.org/about/), held at the School of Computing and Information at the University of Pittsburgh, which lasted from 2016 to 2017... 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&duration=2000&pause=1000&color=F718DC&background=FF496300&random=false&width=435&lines=Hi!+I'm+Kailani.)](https://git.io/typing-svg)
+<br>I'm a Modern Language (B.A.) graduate who loves spending her free time listening to music while studying Data Science, Analytics, and learning the ins and outs of LLMs. I originally joined Github in 2016 while I was participating in an [Information Science internship](https://www.i3-inclusion.org/about/), held at the School of Computing and Information at the University of Pittsburgh, which lasted from 2016 to 2017... 
 nothing came of that first page but (if you're super analytical, like me, and need further proof) it can be found [@KailaniBayy](https://github.com/KailaniBayy). 
 
 The Basics:
