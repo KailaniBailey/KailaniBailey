@@ -16,12 +16,12 @@ Lastly, A quote from one of my favorite childhood flicks:
 
 **Note:** The hyenas symbolize so much... anyways... back to work. <3
 
-# Previous Research Publications
+# Previous Medical/Tech Research Publications
 | Link | Research Paper | Excerpt |
 | ------ | --------------------- | ----------- |
 | [SemanticScholar.org](https://www.semanticscholar.org/paper/Beyond-the-Scope%3A-Using-Motion-Capture-Data-from-to-Babichenko-Grieve/98b6efaa314483241321c2a9d1ec83ea3c0d01aa) | **Beyond the Scope:** Using Motion Capture Data from Bonchoscopy Simulations to Build Feedback Models | “**Abstract:** Manikin simulators and task trainers are commonly used in health sciences training programs to teach techniques performed during medical procedures. However, there are drawbacks to their deployment. First and foremost, the cost of high-fidelity task trainers is prohibitively expensive for many programs. Additionally, the combination of manikin-to-learner and teacher-to-learner ratios often makes it difficult to efficiently teach procedures to a large number of students. This project aims to create a low-cost, game-based, easily portable task trainer to assist learners in building skills and expertise in performing bronchoscopies. This preliminary report focuses on designing a motion capture device to record hand, wrist, and thumb motions performed by experts and learners during simulated bronchoscopy procedures and then using this captured data to construct computational feedback models…” |
 
-# Other Medical and/or Tech Publications
+# Other Medical/Tech Publications
 | Link | Year | Publication | Excerpt |
 | --------- | ---- | ----------- | ------- |
 | [SOVA.pitt.edu](https://sova.pitt.edu/educate-yourself-stepping-away/) | Dec. 14 2017 | Stepping Away | “Have you ever felt anxious or overwhelmed when standing in a crowd of people? If so, how do you handle these types of situations? Do you continue to stand around and feel anxious? Do you excuse yourself, find a quiet spot, and recover? One piece of advice I received a few years back involves taking care of one’s mental health by ‘stepping away’ from stressful moments to recuperate, or ‘center’ one’s self…” |
