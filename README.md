@@ -16,7 +16,7 @@ Lastly, A quote from one of my favorite childhood flicks:
 
 **Note:** The hyenas symbolize so much... anyways... back to work. <3
 
-| Source | Research Publications | Description |
+| Source | Research Publication | Description |
 | ------ | --------------------- | ----------- |
 | SemanticScholar.org | **Beyond the Scope:** Using Motion Capture Data from Bonchoscopy Simulations to Build Feedback Models | “**Abstract:** Manikin simulators and task trainers are commonly used in health sciences training programs to teach techniques performed during medical procedures. However, there are drawbacks to their deployment. First and foremost, the cost of high-fidelity task trainers is prohibitively expensive for many programs. Additionally, the combination of manikin-to-learner and teacher-to-learner ratios often makes it difficult to efficiently teach procedures to a large number of students. This project aims to create a low-cost, game-based, easily portable task trainer to assist learners in building skills and expertise in performing bronchoscopies. This preliminary report focuses on designing a motion capture device to record hand, wrist, and thumb motions performed by experts and learners during simulated bronchoscopy procedures and then using this captured data to construct computational feedback models…” |
 
