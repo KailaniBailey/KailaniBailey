@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&duration=2000&pause=1000&color=F718DC&background=FF496300&random=false&width=435&lines=Hi!+I'm+Kailani.)](https://git.io/typing-svg)
-<br>I'm a Modern Language (B.A.) graduate who loves spending her free time listening to music while studying Data Science, Analytics, and learning the ins and outs of LLMs. I originally joined Github in 2016 while I was participating in an Information Science internship held at the School of Computing and Information at the University of Pittsburgh, which lasted from 2016 to 2017... 
+<br>I'm a writer on Medium and Modern Language (B.A.) graduate who loves spending her free time listening to music while studying Data Science, Analytics, and learning the ins and outs of LLMs. I originally joined Github in 2016 while I was participating in an Information Science internship held at the School of Computing and Information at the University of Pittsburgh, which lasted from 2016 to 2017... 
 nothing came of that first page but (if you're super analytical, like me, and need further proof) it can be found [@KailaniBayy](https://github.com/KailaniBayy). 
 
 **Are You Cyber-Stalking Me?** [CLICK HERE](https://github.com/KailaniBailey?tab=repositories) to view ALL of my FREE repositories. :wink:
@@ -17,7 +17,7 @@ Lastly, A quote from one of my favorite childhood flicks:
 
 **Note:** The hyenas symbolize so much... anyways... back to work. <3
 
-# Undergraduate Academic Research Publication
+# Undergraduate Academic Research Publication(s)
 | Research Paper | Year | Categories | Excerpt | Link |
 | -------------- | ---- | ---------- | ------- | ---- |
 | **Beyond the Scope:** Using Motion Capture Data from Bonchoscopy Simulations to Build Feedback Models | 2018 | Medicine, Engineering, Computer Science | “**Abstract:** Manikin simulators and task trainers are commonly used in health sciences training programs to teach techniques performed during medical procedures. However, there are drawbacks to their deployment. First and foremost, the cost of high-fidelity task trainers is prohibitively expensive for many programs. Additionally, the combination of manikin-to-learner and teacher-to-learner ratios often makes it difficult to efficiently teach procedures to a large number of students. This project aims to create a low-cost, game-based, easily portable task trainer to assist learners in building skills and expertise in performing bronchoscopies. This preliminary report focuses on designing a motion capture device to record hand, wrist, and thumb motions performed by experts and learners during simulated bronchoscopy procedures and then using this captured data to construct computational feedback models…” | [SemanticScholar.org](https://www.semanticscholar.org/paper/Beyond-the-Scope%3A-Using-Motion-Capture-Data-from-to-Babichenko-Grieve/98b6efaa314483241321c2a9d1ec83ea3c0d01aa) |
@@ -31,6 +31,12 @@ Lastly, A quote from one of my favorite childhood flicks:
 - Caira Lee on Self-Love, 07.05.2017 https://sova.pitt.edu/educate-yourself-caira-lee-on-self-love/ <br>
 - The Benefits of Humming, 06.27.2017 https://sova.pitt.edu/educate-yourself-the-benefits-of-humming/ <br>
 - Negative Effects of Social Media on Teens, 05.04.2017 https://sova.pitt.edu/social-media-guide-negative-effects-social-media-teenagers/
+</details>
+
+<details>
+<summary>CLICK HERE To Read My Blog Posts on Laser Technology for LaserChirp with The Laser Institute</summary>
+<br>
+- 
 </details>
 
 <!---
