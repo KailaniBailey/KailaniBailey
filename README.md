@@ -1,4 +1,4 @@
-![1500x500](https://github.com/KailaniBailey/KailaniBailey/assets/158431578/1f0f82ba-a450-42fe-904a-e19adaec3ec7)
+![1500x500 (1)](https://github.com/KailaniBailey/KailaniBailey/assets/158431578/46ae14dc-fa69-4492-98ed-c4d0bab54074)
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&duration=2000&pause=1000&color=F718DC&background=FF496300&random=false&width=435&lines=Hi!+I'm+Kai'lani.)](https://git.io/typing-svg)
