@@ -1,8 +1,8 @@
 ![445533254_413179101561686_7817663047087833945_n](https://github.com/KailaniBailey/KailaniBailey/assets/158431578/3f16acbe-d3f0-41ff-91c0-5c7deeccf674)
-![i3](https://github.com/KailaniBailey/KailaniBailey/assets/158431578/8b9672b1-2fba-4cce-ab0f-b2c05f63368f)
-
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&duration=2000&pause=1000&color=F718DC&background=FF496300&random=false&width=435&lines=Hi!+I'm+Kai'lani.)](https://git.io/typing-svg)
+
+![i3](https://github.com/KailaniBailey/KailaniBailey/assets/158431578/4679611d-3cc2-4b54-9df8-91b3c272f0f4)
 
 <br>I'm a writer on Medium, Data Scientist and Modern Language (B.A.) graduate who loves spending her free time listening to music while constantly learning about Data Science, Analytics, and studying the ins and outs of LLMs. 
 
