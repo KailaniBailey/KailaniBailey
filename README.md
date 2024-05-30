@@ -1,5 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&duration=2000&pause=1000&color=F718DC&background=FF496300&random=false&width=435&lines=Hi!+I'm+Kai'lani.)](https://git.io/typing-svg)
+![Gray and black minimalist Twitter Header (1)](https://github.com/KailaniBailey/KailaniBailey/assets/158431578/ee1f128b-cdcf-4481-9e01-8ea5b0da31f2)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&duration=2000&pause=1000&color=F718DC&background=FF496300&random=false&width=435&lines=Hi!+I'm+Kai'lani.)](https://git.io/typing-svg)
 
 I'm a Data Scientist and Modern Language (B.A.) graduate who loves spending her free time listening to music while constantly learning about Data Science, Analytics, and studying the ins and outs of LLMs. 
 
