@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&duration=2000&pause=1000&color=F718DC&background=FF496300&random=false&width=435&lines=Hi!+I'm+Kai'lani.)](https://git.io/typing-svg)
 
-![i3](https://github.com/KailaniBailey/KailaniBailey/assets/158431578/311c7e19-46b9-4391-8712-aa1b4051a724)
-![CmDXO3NWAAARCN8](https://github.com/KailaniBailey/KailaniBailey/assets/158431578/ec52db52-bc6a-4802-bbe2-245b9e846f70)
 
 I'm a writer on Medium, Data Scientist and Modern Language (B.A.) graduate who loves spending her free time listening to music while constantly learning about Data Science, Analytics, and studying the ins and outs of LLMs. 
 
