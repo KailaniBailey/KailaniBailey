@@ -7,8 +7,6 @@ I'm a Data Scientist and Modern Language (B.A.) graduate who loves spending her 
 I originally joined Github in 2016 while I was participating in an Information Science internship held at the School of Computing and Information at the University of Pittsburgh, which lasted from 2016 to 2017... 
 nothing came of that first page but (if you're super analytical, like me, and need further proof) it can be found [@KailaniBayy](https://github.com/KailaniBayy). 
 
-**Are You Cyber-Stalking Me?** [CLICK HERE](https://github.com/KailaniBailey?tab=repositories) to view ALL of my FREE repositories. *No subscription fee required.* :wink:
-
 The Basics:
 -  I love data science, linguistics, language learning, painting, sports and traveling.
 -  **My latest projects are:**
