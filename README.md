@@ -11,7 +11,9 @@ nothing came of that first page but (if you're super analytical, like me, and ne
 
 The Basics:
 -  I love data science, linguistics, language learning, painting, sports and traveling.
--  **My latest project is:** [IBM Data Science Professional Certificate](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate)
+-  **My latest projects are:**
+      - [IBM Data Science Professional Certificate](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate)
+      - [CISCO Cybersecurity](https://github.com/KailaniBailey/CISCO-Cyber-Security/tree/main)
 -  I love to read in my free time and frequently update my book lists on [Goodreads](https://www.goodreads.com/kailanibayy).  
 
 Lastly, A quote from one of my favorite childhood flicks:
