@@ -5,11 +5,6 @@
 
 *I originally joined Github in 2016 [@KailaniBayy](https://github.com/KailaniBayy)*.
 
-A quote from one of my favorite childhood flicks:
-<br>
-> ["I laugh in the face of Danger!"](https://youtu.be/FvZ649kW3jM?feature=shared) 
-<br>- The Lion King <br>
-
 🌸👾🌸👾🌸👾🌸👾🌸👾🌸👾🌸👾🌸
 <details>
 <summary>🌸 CLICK THIS DROPDOWN 🌸 To Read My Undergraduate Academic Research Publications</summary>
