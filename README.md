@@ -1,15 +1,14 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&duration=2000&pause=1000&color=F718DC&background=FF496300&random=false&width=435&lines=✨Hi!+I'm+Kai'lani.✨)](https://git.io/typing-svg)
 ## **About Me**
-      I'm a Data Scientist and Modern Language (B.A.) graduate who loves spending her free time listening to music while constantly learning about Data Science, analytics, and studying the ins and outs of LLMs. I also love traveling, sports, studying languages, and enjoying life offline.
+      I'm a Data Scientist and Modern Language (B.A.) graduate who loves spending her free time listening to music while constantly learning about Data Science, analytics, and studying the ins and outs of LLMs. I also love traveling, sports, studying languages, reading and enjoying life offline.
 
 *I originally joined Github in 2016 [@KailaniBayy](https://github.com/KailaniBayy)*
 
 **My latest projects are:**
 - [CISCO Cybersecurity](https://github.com/KailaniBailey/CISCO-Cyber-Security/tree/main) <br>
 - [IBM Data Science Professional Certificate](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate)
--  I love to read in my free time and frequently update my book lists on [Goodreads](https://www.goodreads.com/kailanibayy).  
-
+- 
 A quote from one of my favorite childhood flicks:
 <br>
 > ["I laugh in the face of Danger!"](https://youtu.be/FvZ649kW3jM?feature=shared) 
