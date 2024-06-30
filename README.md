@@ -8,7 +8,7 @@
 **My latest projects are:**
 - [CISCO Cybersecurity](https://github.com/KailaniBailey/CISCO-Cyber-Security/tree/main) <br>
 - [IBM Data Science Professional Certificate](https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate)
-- 
+
 A quote from one of my favorite childhood flicks:
 <br>
 > ["I laugh in the face of Danger!"](https://youtu.be/FvZ649kW3jM?feature=shared) 
