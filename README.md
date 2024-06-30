@@ -3,7 +3,7 @@
 ## **About Me**
       I'm a Data Scientist and Modern Language (B.A.) graduate who loves spending her free time listening to music while constantly learning about Data Science, analytics, and studying the ins and outs of LLMs. I also love traveling, sports, studying languages, reading and enjoying life offline.
 
-*I originally joined Github in 2016 [@KailaniBayy](https://github.com/KailaniBayy)*
+*I originally joined Github in 2016 [@KailaniBayy](https://github.com/KailaniBayy)*.
 
 **My latest projects are:**
 - [CISCO Cybersecurity](https://github.com/KailaniBailey/CISCO-Cyber-Security/tree/main) <br>
