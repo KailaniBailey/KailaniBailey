@@ -17,13 +17,13 @@ A quote from one of my favorite childhood flicks:
 
 🌸👾🌸👾🌸👾🌸👾🌸👾🌸👾🌸👾🌸
 <details>
-<summary>🌸 CLICK HERE 🌸 To Read My Undergraduate Academic Research Publications</summary>
+<summary>🌸 CLICK THIS DROPDOWN 🌸 To Read My Undergraduate Academic Research Publications</summary>
 <br>
 Beyond the Scope: Using Motion Capture Data from Bonchoscopy Simulations to Build Feedback Models, 2018 https://www.semanticscholar.org/paper/Beyond-the-Scope%3A-Using-Motion-Capture-Data-from-to-Babichenko-Grieve/98b6efaa314483241321c2a9d1ec83ea3c0d01aa
 </details>
 
 <details>
-<summary>🌸 CLICK HERE 🌸 To Read My Volunteer Research Publications for SOVA with UPMC Children's Hospital of Pittsburgh</summary>
+<summary>🌸 CLICK THIS DROPDOWN 🌸 To Read My Volunteer Research Publications for SOVA with UPMC Children's Hospital of Pittsburgh</summary>
 <br>
 Stepping Away, 12.14.17 https://sova.pitt.edu/educate-yourself-stepping-away/ <br>
 App Games for Anxiety, 10.25.17 https://sova.pitt.edu/educate-yourself-app-games-for-anxiety/ <br>
@@ -34,7 +34,7 @@ Negative Effects of Social Media on Teens, 05.04.17 https://sova.pitt.edu/social
 </details>
 
 <details>
-<summary>🌸 CLICK HERE 🌸 To Read My Blog Posts on Laser Technology for LaserChirp with The Laser Institute</summary>
+<summary>🌸 CLICK THIS DROPDOWN 🌸 To Read My Blog Posts on Laser Technology for LaserChirp with The Laser Institute</summary>
 <br>
 Staying Competitive in a High-Tech Market: 4 Industrial Manufacturing Professionals Mastering Lasers at the Inaugural Industrial Laser Conference, 08.24.16 https://www.laserchirp.com/2016/08/staying-competitive-industrial-manufacturing-industrial-laser-conference/ <br>
 The Top Five Things to See and Do at ICALEO 2016, 08.4.16 https://www.laserchirp.com/2016/08/top-five-things-to-see-do-icaleo-2016/ <br>
