@@ -3,8 +3,7 @@
 
 I'm a Data Scientist and Modern Language (B.A.) graduate who loves spending her free time listening to music while constantly learning about Data Science, Analytics, and studying the ins and outs of LLMs. 
 
-I originally joined Github in 2016 while I was participating in an Information Science internship held at the School of Computing and Information at the University of Pittsburgh, which lasted from 2016 to 2017... 
-nothing came of that first page but (if you're super analytical, like me, and need further proof) it can be found [@KailaniBayy](https://github.com/KailaniBayy). 
+I originally joined Github in 2016 [@KailaniBayy](https://github.com/KailaniBayy). 
 
 The Basics:
 -  I love data science, linguistics, language learning, painting, sports and traveling.
