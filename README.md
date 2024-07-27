@@ -31,14 +31,6 @@ The Top Five Things to See and Do at ICALEO 2016, 08.4.16 https://www.laserchirp
 How Effective is Laser Hair Removal?, 06.27.16 https://www.laserchirp.com/2016/06/how-effective-is-laser-hair-removal/ <br>
 Manufacturing Processes in Communication and Transportation, 06.21.26 https://www.laserchirp.com/2016/06/manufacturing-processes-in-communications-and-transportation/ <br>
 Throwback Thursday: The LaserDisc, 06.09.16 https://www.laserchirp.com/2016/06/throwback-thursday-the-laserdisc/ <br>
-Current Trends in Manufacturing Technology, 06.08.16 https://www.laserchirp.com/2016/06/current-trends-in-manufacturing-technology/ <br>
-Mildred Dresselhaus and Magneto-Optics, 06.06.16 https://www.laserchirp.com/2016/06/mildred-dresselhaus-and-magneto-optics/ <br>
-Dennis Gabor and the Hologram Theory, 05.31.16 https://www.laserchirp.com/2016/05/dennis-gabor-and-the-hologram-theory/ <br>
-The Future of Fiber Optics, 05.24.16 https://www.laserchirp.com/2016/05/the-future-of-fiber-optics/ <br>
-The Invention of the Bar Code Scanner, 05.23.16 https://www.laserchirp.com/2016/05/the-invention-of-the-bar-code-scanner/ <br>
-NASA and the Lunar Orbiter Laser Altimeter, 05.11.16 https://www.laserchirp.com/2016/05/nasa-and-the-mars-orbiter-laser-altimeter/ <br>
-Infrared Lasers: A Treatment for Alzheimer’s Disease, 05.10.16 https://www.laserchirp.com/2016/05/infrared-lasers-a-treatment-for-alzheimers-disease/ <br>
-Deborah Jin and the Fermionic Condensate, 05.09.16 https://www.laserchirp.com/2016/05/deborah-jin-and-the-fermionic-condensate/ <br>
 </details>
 
 <!---
