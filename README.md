@@ -44,8 +44,6 @@ Einstein’s Involvement in Developing the Laser, 05.03.16 https://www.laserchir
 Use of Lasers for Potential Treatment or Cure to Parkinson’s, 05.02.16 https://www.laserchirp.com/2016/05/use-of-lasers-for-potential-treatment-or-cure-to-parkinsons/ <br>
 Manufacturing and Lumber Processing Applications, 04.20.16 https://www.laserchirp.com/2016/04/manufacturing-and-lumber-processing-applications/ <br>
 Lene Hau and the Bose-Einstein Condensate, 03.29.16 https://www.laserchirp.com/2016/03/lene-hau-and-the-bose-einstein-condensate/ <br>
-Patricia Bath and the Laserphaco Probe, 02.24.16 https://www.laserchirp.com/2016/02/patricia-bath-and-the-laserphaco-probe/ <br>
-November is Membership Month for LIA, 11.05.15 https://www.laserchirp.com/2015/11/november-is-membership-month-for-lia/ <br>
 </details>
 
 <!---
