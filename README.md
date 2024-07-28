@@ -23,16 +23,6 @@ The Benefits of Humming, 06.27.17 https://sova.pitt.edu/educate-yourself-the-ben
 Negative Effects of Social Media on Teens, 05.04.17 https://sova.pitt.edu/social-media-guide-negative-effects-social-media-teenagers/
 </details>
 
-<details>
-<summary>🌸 CLICK THIS DROPDOWN 🌸 To Read My Blog Posts on Laser Technology for LaserChirp with The Laser Institute</summary>
-<br>
-Staying Competitive in a High-Tech Market: 4 Industrial Manufacturing Professionals Mastering Lasers at the Inaugural Industrial Laser Conference, 08.24.16 https://www.laserchirp.com/2016/08/staying-competitive-industrial-manufacturing-industrial-laser-conference/ <br>
-The Top Five Things to See and Do at ICALEO 2016, 08.4.16 https://www.laserchirp.com/2016/08/top-five-things-to-see-do-icaleo-2016/ <br>
-How Effective is Laser Hair Removal?, 06.27.16 https://www.laserchirp.com/2016/06/how-effective-is-laser-hair-removal/ <br>
-Manufacturing Processes in Communication and Transportation, 06.21.26 https://www.laserchirp.com/2016/06/manufacturing-processes-in-communications-and-transportation/ <br>
-Throwback Thursday: The LaserDisc, 06.09.16 https://www.laserchirp.com/2016/06/throwback-thursday-the-laserdisc/ <br>
-</details>
-
 <!---
 KailaniBailey/KailaniBailey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
