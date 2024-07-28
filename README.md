@@ -6,11 +6,6 @@ I'm a Data Scientist, Junior Cybersecurity Analyst, CCMA and Modern Language (B.
 *I originally joined Github in 2016 [@KailaniBayy](https://github.com/KailaniBayy)*.
 
 🌸👾🌸👾🌸👾🌸👾🌸👾🌸👾🌸👾🌸
-<details>
-<summary>🌸 CLICK THIS DROPDOWN 🌸 To Read My Undergraduate Academic Research Publications</summary>
-<br>
-Beyond the Scope: Using Motion Capture Data from Bonchoscopy Simulations to Build Feedback Models, 2018 https://www.semanticscholar.org/paper/Beyond-the-Scope%3A-Using-Motion-Capture-Data-from-to-Babichenko-Grieve/98b6efaa314483241321c2a9d1ec83ea3c0d01aa
-</details>
 <!---
 KailaniBailey/KailaniBailey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
