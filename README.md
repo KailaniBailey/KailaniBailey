@@ -11,18 +11,6 @@ I'm a Data Scientist, Junior Cybersecurity Analyst, CCMA and Modern Language (B.
 <br>
 Beyond the Scope: Using Motion Capture Data from Bonchoscopy Simulations to Build Feedback Models, 2018 https://www.semanticscholar.org/paper/Beyond-the-Scope%3A-Using-Motion-Capture-Data-from-to-Babichenko-Grieve/98b6efaa314483241321c2a9d1ec83ea3c0d01aa
 </details>
-
-<details>
-<summary>🌸 CLICK THIS DROPDOWN 🌸 To Read My Volunteer Research Publications for SOVA with UPMC Children's Hospital of Pittsburgh</summary>
-<br>
-Stepping Away, 12.14.17 https://sova.pitt.edu/educate-yourself-stepping-away/ <br>
-App Games for Anxiety, 10.25.17 https://sova.pitt.edu/educate-yourself-app-games-for-anxiety/ <br>
-Journaling for Growth, 09.25.17 https://sova.pitt.edu/be-positive-journaling-for-growth/ <br>
-Caira Lee on Self-Love, 07.05.17 https://sova.pitt.edu/educate-yourself-caira-lee-on-self-love/ <br>
-The Benefits of Humming, 06.27.17 https://sova.pitt.edu/educate-yourself-the-benefits-of-humming/ <br>
-Negative Effects of Social Media on Teens, 05.04.17 https://sova.pitt.edu/social-media-guide-negative-effects-social-media-teenagers/
-</details>
-
 <!---
 KailaniBailey/KailaniBailey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
