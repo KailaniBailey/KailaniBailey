@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&duration=2000&pause=1000&color=F718DC&background=FF496300&random=false&width=435&lines=✨Hi!+I'm+Kai'lani.✨)](https://git.io/typing-svg)
-## About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&duration=2000&pause=1000&color=F718DC&background=FF496300&random=false&width=435&lines=✨Hi!+I'm+Kai'lani.✨)](https://git.io/typing-svg) <br>
 I'm a Cyber Chick, CCMA, Tech Writer and Modern Language (B.A.) graduate. I love spending my free time listening to music and learning about Cybersecurity, Data Science and Data Science Analytics. I also love traveling, sports, studying languages, painting, reading and enjoying life offline.
 
 *I originally joined Github in 2016 [@KailaniBayy](https://github.com/KailaniBayy)*.
