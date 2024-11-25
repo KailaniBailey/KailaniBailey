@@ -5,7 +5,7 @@ Check my pinned section for COMPLETED and current projects.
 
 *I originally joined Github in 2016 [@KailaniBayy](https://github.com/KailaniBayy)*.
 
-## [CLICK HERE](https://github.com/KailaniBailey/KailaniBayy.Art/) FOR MY ART PORTFOLIO CREATIONS ^-^
+## [CLICK HERE](https://github.com/KailaniBailey/KailaniBayy.Art/) FOR MY ONLINE *ART* PORTFOLIO
 Here's a grid for my current projects:
 *Coming Soon*
 <!---
