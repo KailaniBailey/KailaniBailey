@@ -4,6 +4,8 @@
 Check my pinned section for COMPLETED and current projects.
 
 *I originally joined Github in 2016 [@KailaniBayy](https://github.com/KailaniBayy)*.
+
+# CLICK HERE ~ SURRENDER TO MY ART PORTFOLIO CREATIONS ^-^
 <!---
 KailaniBailey/KailaniBailey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
