@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&duration=2000&pause=1000&color=F718DC&background=FF496300&random=false&width=435&lines=✨Dat+CyberSec+Mami.✨)](https://git.io/typing-svg) <br>
 Check my pinned section for COMPLETED and current projects.
 
-*I originally joined Github in 2016 [@KailaniBayy](https://github.com/KailaniBayy)*.
+*[@KailaniBailey](https://github.com/KailaniBailey) originally joined Github in 2016 [@KailaniBayy](https://github.com/KailaniBayy)*.
 
 ## [CLICK HERE](https://github.com/KailaniBailey/KailaniBayy.Art/) FOR MY ONLINE *ART* PORTFOLIO
 Here's a grid for my current projects:
