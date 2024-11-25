@@ -12,8 +12,10 @@ Check my Pinned section for COMPLETED and current projects.
 |[KailaniBayy.Art Repos](https://github.com/users/KailaniBailey/projects/2)|
 |[KailaniBayyArt.Tech Site](https://github.com/users/KailaniBailey/projects/3)|
 
-![Static Badge](https://img.shields.io/badge/Coding%20Language(s)-Python-purple)
-<Br>
+![GitHub followers](https://img.shields.io/github/followers/KailaniBailey)
+ ![Static Badge](https://img.shields.io/badge/Coding%20Language(s)-Python-purple)
+
+ 
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/kailanibayy)
 
 
