@@ -8,7 +8,7 @@ Check my Pinned section for COMPLETED and current projects.
 ## [CLICK HERE](https://github.com/KailaniBailey/KailaniBayy.Art/) FOR MY ONLINE *ART* PORTFOLIO
 |**My GitHub Projects**|
 |-------------------|
-|["KailaniBayy.Art" Repos](https://github.com/users/KailaniBailey/projects/2)|
+|[KailaniBayy.Art Repos](https://github.com/users/KailaniBailey/projects/2)|
 |KailaniBayyArt. Tech Site|
 <!---
 KailaniBailey/KailaniBailey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
