@@ -6,9 +6,9 @@ Check my Pinned section for COMPLETED and current projects.
 *[@KailaniBailey](https://github.com/KailaniBailey) originally joined Github in 2016 as [@KailaniBayy](https://github.com/KailaniBayy)*.
 
 ## [CLICK HERE](https://github.com/KailaniBailey/KailaniBayy.Art/) FOR MY ONLINE *ART* PORTFOLIO
-|**My Current Projects**|
+|**My Open/Closed Projects**|
 |-------------------|
-|KailaniBayy.Art Site|
+|["KailaniBayy.Art" Website](https://github.com/users/KailaniBailey/projects/2)|
 <!---
 KailaniBailey/KailaniBailey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
