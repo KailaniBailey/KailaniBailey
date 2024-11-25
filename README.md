@@ -13,6 +13,9 @@ Check my Pinned section for COMPLETED and current projects.
 |[KailaniBayyArt.Tech Site](https://github.com/users/KailaniBailey/projects/3)|
 
 ![Static Badge](https://img.shields.io/badge/Coding%20Language(s)-Python-purple)
+<Br>
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/kailanibayy)
+
 
 <!---
 KailaniBailey/KailaniBailey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
