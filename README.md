@@ -6,7 +6,7 @@
 Check my Pinned for COMPLETED repositories.
 
 ## [OPEN](https://github.com/KailaniBailey/KailaniBayy.Art/) MY *ART* RESPOSITORY
-|**GitHub Projects**|
+|**Other GitHub Projects**|
 |-------------------|
 |[KailaniBayy.Art Repos](https://github.com/users/KailaniBailey/projects/2)|
 |[KailaniBayyArt.Tech Site](https://github.com/users/KailaniBailey/projects/3)|
