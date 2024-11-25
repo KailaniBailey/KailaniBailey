@@ -5,7 +5,7 @@
 
 Check my Pinned for COMPLETED repositories.
 
-## [CLICK](https://github.com/KailaniBailey/KailaniBayy.Art/) FOR MY *ART* PORTFOLIO
+## [CLICK](https://github.com/KailaniBailey/KailaniBayy.Art/) FOR MY *ART* RESPOSITORY
 |**GitHub Projects**|
 |-------------------|
 |[KailaniBayy.Art Repos](https://github.com/users/KailaniBailey/projects/2)|
