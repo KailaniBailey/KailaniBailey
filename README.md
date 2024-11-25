@@ -4,7 +4,7 @@
 Check my Pinned section for COMPLETED and current projects.
 
 *I originally joined Github in 2016 as [@KailaniBayy](https://github.com/KailaniBayy)*.<br>
-*[@KailaniBailey2](https://github.com/KailaniBailey2) is my burner account.*
+***Fun Fact:*** *[@KailaniBailey2](https://github.com/KailaniBailey2) is my burner account.*
 
 ## [CLICK HERE](https://github.com/KailaniBailey/KailaniBayy.Art/) FOR MY ONLINE *ART* PORTFOLIO
 |**GitHub Projects**|
