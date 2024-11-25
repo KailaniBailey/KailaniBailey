@@ -5,11 +5,11 @@
 
 Check my Pinned for COMPLETED repositories.
 
-## [OPEN](https://github.com/KailaniBailey/KailaniBayy.Art/) MY *ART* RESPOSITORY
-|**Current GitHub Projects**|
-|-------------------|
-|[KailaniBayy.Art Repos](https://github.com/users/KailaniBailey/projects/2)|
-|[KailaniBayyArt.Tech Site](https://github.com/users/KailaniBailey/projects/3)|
+## [VIEW](https://github.com/KailaniBailey/KailaniBayy.Art/) MY *ART* RESPOSITORY
+|**Current GitHub Projects**|**Status**|
+|---------------------------|------|
+|[KailaniBayy.Art Repos](https://github.com/users/KailaniBailey/projects/2)|Open|
+|[KailaniBayyArt.Tech Site](https://github.com/users/KailaniBailey/projects/3)|Open|
 
 ![GitHub followers](https://img.shields.io/github/followers/KailaniBailey)
  ![Static Badge](https://img.shields.io/badge/Coding%20Language(s)-Python-purple)
