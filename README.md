@@ -12,7 +12,7 @@ Check my Pinned for COMPLETED repositories.
 |[KailaniBayyArt.Tech Site](https://github.com/users/KailaniBailey/projects/3)|Open|
 
 ![GitHub followers](https://img.shields.io/github/followers/KailaniBailey)
- ![Static Badge](https://img.shields.io/badge/Coding%20Language(s)-Python-purple)
+ ![Static Badge](https://img.shields.io/badge/Programming%20Language(s)-Python-purple)
 
  
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/kailanibayy)
