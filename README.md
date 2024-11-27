@@ -13,6 +13,8 @@ Check my Pinned for COMPLETED repositories.
 
 ![GitHub followers](https://img.shields.io/github/followers/KailaniBailey)
  ![Static Badge](https://img.shields.io/badge/Programming%20Language(s)-Python-purple)
+ ![Static Badge](https://img.shields.io/badge/Operating%20System%20(OS)-Linux-pink)
+
 
  
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/kailanibayy)
