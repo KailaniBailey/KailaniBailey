@@ -9,12 +9,16 @@
 |---------------------------|------|
 |[KailaniBayy.Art Repos](https://github.com/users/KailaniBailey/projects/2)|Open|
 
+
+
+
+
 ![GitHub followers](https://img.shields.io/github/followers/KailaniBailey)
+
+
 ![Static Badge](https://img.shields.io/badge/Programming%20Language(s)-Python%2C%20SQL-purple)
 ![Static Badge](https://img.shields.io/badge/Operating%20System%20(OS)-Linux-pink)
 ![Static Badge](https://img.shields.io/badge/CompTIA%20Certification(s)-Security+-blue)
-
-
  
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/kailanibayy)
 
