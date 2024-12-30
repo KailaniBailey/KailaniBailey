@@ -5,7 +5,7 @@
 
 > Check my Pinned for COMPLETED repositories.
 
-## VIEW MY *ART* REPOSITORY
+## VIEW MY *ART* REPOSITORY 💻🎨
 [CLICK HERE](http://github.com/KailaniBailey/KailaniBayy.Art) to travel... 🗺️✈️✨
 |**Current GitHub Projects**|**Status**|
 |---------------------------|------|
