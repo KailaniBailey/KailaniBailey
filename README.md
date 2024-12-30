@@ -4,7 +4,8 @@
 > *Hi! I'm [@KailaniBailey](https://github.com/KailaniBailey). I joined Github in 2016 as [@KailaniBayy](https://github.com/KailaniBayy). And now [@KailaniBailey2](https://github.com/KailaniBailey2) is my burner account.*
 
 ## View My *ART* Repository
-[Click here](http://github.com/KailaniBailey/KailaniBayy.Art) to travel... ✈️
+- [Click here](http://github.com/KailaniBailey/KailaniBayy.Art) to travel... ✈️
+
 |**Current GitHub Projects**|**Status**|
 |---------------------------|------|
 |[KailaniBayy.Art Repos](https://github.com/users/KailaniBailey/projects/2)|Open|
