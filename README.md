@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&duration=2000&pause=1000&color=F718DC&background=FF496300&random=false&width=435&lines=✨Dat+CyberSec+Mami.✨)](https://git.io/typing-svg) <br>
 > *Hi! I'm [@KailaniBailey](https://github.com/KailaniBailey). I joined Github in 2016 as [@KailaniBayy](https://github.com/KailaniBayy). And now [@KailaniBailey2](https://github.com/KailaniBailey2) is my burner account.*
 
-## MY *ART* REPOSITORY 💻🎨
+## View My *ART* Repository
 [Click here](http://github.com/KailaniBailey/KailaniBayy.Art) to travel... ✈️
 |**Current GitHub Projects**|**Status**|
 |---------------------------|------|
