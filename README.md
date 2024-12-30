@@ -9,7 +9,6 @@
 |**Current GitHub Projects**|**Status**|
 |---------------------------|------|
 |[KailaniBayy.Art Repos](https://github.com/users/KailaniBailey/projects/2)|Open|
-|[KailaniBayyArt.Tech Site](https://github.com/users/KailaniBailey/projects/3)|Open|
 
 ![GitHub followers](https://img.shields.io/github/followers/KailaniBailey)
 ![Static Badge](https://img.shields.io/badge/Programming%20Language(s)-Python%2C%20SQL-purple)
